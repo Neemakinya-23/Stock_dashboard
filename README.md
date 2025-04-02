@@ -33,6 +33,5 @@ This Power BI dashboard visualizes key sales metrics, trends, and performance in
 - **Power BI** for visualization
 - **Data Cleaning & Transformation** in Power Query
 
- **Contributions & Feedback**
-Have suggestions for improvement? Feel free to share your thoughts! 
+
 
